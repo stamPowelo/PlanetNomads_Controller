@@ -23,4 +23,5 @@ INSTUSTRUCTIONS
 3. Start Antimicro with admin rights (just to be sure)
 4. Load the profile .amgp
 5. Don't forget to start at the first set in the profile (RUN) or the third (WALK)
-6. Have fun!
+6. You must make 2 changes in the game controls. I wrote them in the .png file
+7. Have fun!
