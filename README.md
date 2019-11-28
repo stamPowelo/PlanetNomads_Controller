@@ -1,4 +1,4 @@
-# PlanetNomads_Controller
+# Planet Nomads XBOX ONE Controller Support
 AntiMicro profile for XBOX_One Controller
 
 Planet Nomads has many functionalities for the player and makes it very difficult to use a gamepad. It has already some connexions to the XBOX-ONE controller (Windows 10), which you cannot over-pass them.
