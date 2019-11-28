@@ -703,6 +703,18 @@
                             <code>0x4b</code>
                             <mode>keyboard</mode>
                         </slot>
+                        <slot>
+                            <code>600</code>
+                            <mode>hold</mode>
+                        </slot>
+                        <slot>
+                            <code>0x55</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                        <slot>
+                            <code>0</code>
+                            <mode>setchange</mode>
+                        </slot>
                     </slots>
                 </dpadbutton>
             </dpad>
